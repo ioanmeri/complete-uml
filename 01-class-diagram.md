@@ -1,5 +1,12 @@
 # Section 1: UML Class Diagram
 
+- [Class Diagram](#class-diagram)
+- [Class Diagram Example](#class-diagram-example)
+- [Common Mistakes in UML Class](#common-mistakes-in-uml-class)
+- [Implement Relationships in Code](#implement-relationships-in-code)
+
+---
+
 ## Class Diagram
 
 The class diagram describes the classes of the applications been modeled along with their relationship to one another
@@ -123,4 +130,114 @@ You can specify the number of instances of one class that are linked with the in
   - (*)
 
 ---
+
+## Class Diagram Example
+
+![Class diagram Example](assets/01.png)
+
+---
+
+## Common Mistakes in UML Class
+
+- Overcomplicating the diagram
+- Incorrect use of relationships
+- Not considering the relationships between classes
+- Incorrect cardinality
+- Focusing too much on implementation details
+- Inconsistent naming conventions
+
+---
+
+## Implement Relationships in Code
+
+### Association Relationship
+
+![Association Relationship](assets/02.jpg)
+
+
+```
+public class Student {
+  private List<Course> encrolledCourses;
+
+  public void enroll(Course course){
+
+  }
+}
+```
+
+---
+
+### Agregation Relationship
+
+![Agregation Relationship](assets/03.jpg)
+
+```
+public class Car {
+  private Wheels[] wheels;
+}
+
+```
+
+---
+
+### Composition Relationship
+
+![Composition Relationship](assets/04.jpg)
+
+```
+public class HumanBody {
+  private Heart heart;
+}
+```
+
+---
+
+### Dependency Relationship
+
+![Dependency Relationship](assets/05.jpg)
+
+```
+public class Shape {
+  public void render(Line line){
+
+  }
+}
+```
+
+---
+
+### Inheritance Relationship
+
+![Inheritance Relationship](assets/06.jpg)
+
+```
+class Dog: Animal {
+  public Dog(string name, int age): base(name, age) {}
+
+  public override void MakeSound(){
+    Console.WriteLine("The dog barks");
+  }
+}
+```
+
+---
+
+### Realization Relationship
+
+![Realization Relationship](assets/07.jpg)
+
+```
+public interface IVehicle {
+  void Drive();
+}
+
+public class Car:IVehicle {
+    void Drive(){
+
+    }
+}
+```
+
+
+
 
