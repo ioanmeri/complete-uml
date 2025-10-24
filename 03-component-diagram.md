@@ -3,6 +3,8 @@
 - [Component Diagram building blocks](#component-diagram-building-blocks)
 - [Component Diagram Usage](#component-diagram-usage)
 - [Component Diagram Example](#component-diagram-example)
+- [Common Mistakes in Component Diagrams](#common-mistakes-in-component-diagrams)
+  
 ---
 
 ## Component Diagram building blocks
@@ -60,6 +62,19 @@ Example: Payment Component depends on User Authentication Component
 ![Component Diagram](assets/09.PNG)
 
 ---
+
+## Common Mistakes in Component Diagrams
+
+- Including too much details
+- Failing to identify interfaces
+- Not including dependencies
+- Not properly grouping related components
+- Including irrelevant components
+- Not using consistent notation
+
+---
+
+
 
 
 
