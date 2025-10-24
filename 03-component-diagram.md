@@ -1,6 +1,14 @@
 # Component Diagram
 
-- Component diagram is a structural diagram which represents static implementation view of the system.
+- [Component Diagram building blocks](#component-diagram-building-blocks)
+- [Component Diagram Usage](#component-diagram-usage)
+- [Component Diagram Example](#component-diagram-example)
+---
+
+## Component Diagram building blocks
+
+Component diagram is a **structural diagram** which represents the static implementation view of the system.
+
 - Help us to understand the main components of the system and the relationships between them.
 - It is used to represent the structure of the system at a high level - higher than the class level
 
@@ -37,7 +45,7 @@ Example: Payment Component depends on User Authentication Component
 
 ---
 
-## Usage Component Diagram
+## Component Diagram Usage
 
 - To model the components of the system
 - To model the schemas of a database
@@ -46,7 +54,12 @@ Example: Payment Component depends on User Authentication Component
 
 ---
 
+## Component Diagram Example
 
+
+![Component Diagram](assets/09.PNG)
+
+---
 
 
 
