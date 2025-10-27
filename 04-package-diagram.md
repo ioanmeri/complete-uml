@@ -35,3 +35,12 @@ Package Diagram helps large complex system to make them more manageable
 ![Package Diagram](assets/10.PNG)
 
 ---
+
+## Common Mistakes in UML Package Diagrams
+
+- Including too many details
+- Failing to show package relationships
+- Using too many stereotypes
+- Placing packages in the wrong layer or level
+
+---
