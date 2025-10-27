@@ -29,3 +29,9 @@ Package Diagram helps large complex system to make them more manageable
 - Simplifies maintenance
 
 ---
+
+## Package Diagram Example
+
+![Package Diagram](assets/10.PNG)
+
+---
