@@ -3,6 +3,7 @@
 - [Introduction](#introduction)
 - [Basics of Deployment Diagram](#basics-of-deployment-diagram)
 - [Benefits of Deployment Diagram](#benefits-of-deployment-diagram)
+- [Deployment Diagram Examples](#deployment-diagram-examples)
 
 ---
 
@@ -68,7 +69,18 @@ Note: Node contains the component so whatever fundamental of component diagram y
 
 ---
 
+## Deployment Diagram Examples
 
+**Cloud Deployment Diagram**
 
+![Cloud Deployment](assets/11.PNG)
+
+---
+
+**On prem Deployment Diagram**
+
+![Cloud Deployment](assets/12.PNG)
+
+---
 
 
