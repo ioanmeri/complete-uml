@@ -4,6 +4,7 @@
 - [Basics of Deployment Diagram](#basics-of-deployment-diagram)
 - [Benefits of Deployment Diagram](#benefits-of-deployment-diagram)
 - [Deployment Diagram Examples](#deployment-diagram-examples)
+- [Common Mistakes in UML Deployment Diagrams](#common-mistakes-in-uml-deployment-diagrams)
 
 ---
 
@@ -82,5 +83,16 @@ Note: Node contains the component so whatever fundamental of component diagram y
 ![Cloud Deployment](assets/12.PNG)
 
 ---
+
+## Common Mistakes in UML Deployment Diagrams
+
+- Overcomplicating the deployment architecture
+- Failing to identify hardware components
+- Including unnecessary components
+- Missing dependencies
+
+---
+
+
 
 
