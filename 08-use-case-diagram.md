@@ -1,5 +1,17 @@
 # Section 8: Use Case Diagram
 
+- [Introduction](#introduction)
+- [Actors](#actors)
+- [Usecase](#usecase)
+- [System Boundary](#system-boundary)
+- [Relationships](#relationships)
+- [Use Case Diagram examples](#use-case-diagram-examples)
+- [Common Mistakes in UML Use case diagrams](#common-mistakes-in-uml-use-case-diagrams)
+
+---
+
+## Introduction
+
 A type of **behavioural** UML Diagram
 
 - Provides a representation of a system's behavior from the **perspective of the users**
@@ -40,7 +52,7 @@ Goal or task performed by the end user, use case represent the action performed,
 Two types of use case
 - Business use case
   - Service that is offered to the customers, business partners or other business systems
-- Usercase
+- Use case
   - Functionality that exists within a business system, which is neither visible nor accessible to outsiders
   - Represents an internal activity, meaning an internal business process
 
@@ -55,7 +67,7 @@ Represents the boundary or scope of the system being modeled. It defines what is
 ## Relationships
 
 **Association**
-- A communication between an actor and a usecase, user can initiate it
+- A communication between an actor and a use case, user can initiate it
 - represented with a line
 
 **Generalization**
@@ -85,3 +97,33 @@ Represents the boundary or scope of the system being modeled. It defines what is
   - example Process Payment -- << dependency >> + Verify --> Verify Payment Information
 
 ---
+
+## Use Case Diagram examples
+
+**Business Use case**
+
+![Business Use case](assets/16.PNG)
+
+**System use case**
+
+![System Use case](assets/17.PNG)
+
+---
+
+## Common Mistakes in UML Use case diagrams
+
+- Failing to identify actors
+- Using technical language
+- Overcomplicating the diagram
+- Failing to define system boundaries
+- Including non-functional requirement
+- Not considering alternate flows
+- Not prioritizing use cases
+- Not considering stakeholders
+
+---
+
+
+
+
+
