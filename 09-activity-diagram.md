@@ -3,6 +3,8 @@
 - [Introduction](#introduction)
 - [Basics of Activity Diagram](#basics-of-activity-diagram)
 - [Benefits of Activity Diagram](#benefits-of-activity-diagram)
+- [Activity Diagram Examples](#activity-diagram-examples)
+- [Common Mistakes in UML Activity Diagrams](#common-mistakes-in-uml-activity-diagrams)
 
 ---
 
@@ -63,5 +65,24 @@ Useful for analyzing, designing and documenting the sequence of activities for a
 - Training and Support
 
 ---
+
+## Activity Diagram Examples
+
+![Activity Diagram Examples](assets/18.PNG)
+
+---
+
+## Common Mistakes in UML Activity Diagrams
+
+- Using too many actions or nodes
+- Not labeling actions or nodes
+- Not considering concurrency
+- Not considering exception handling
+- Failing to define the start and end points
+- Failing to use decision points
+- Failing to use loops
+
+---
+
 
 
