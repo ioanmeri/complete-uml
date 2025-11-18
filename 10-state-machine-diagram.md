@@ -3,6 +3,8 @@
 - [Introduction](#introduction)
 - [Basics of State Machine Diagram](#basics-of-state-machine-diagram)
 - [Benefits of State Machine Diagram](#benefits-of-state-machine-diagram)
+- [State Machine Diagram Example](#state-machine-diagram-example)
+- [Common Mistakes in UML State Machine Diagrams](#common-mistakes-in-uml-state-machine-diagrams)
 
 
 ---
@@ -59,6 +61,23 @@ also uses common concepts like
 - Simplifying testing and debugging
 
 ---
+
+## State Machine Diagram Example
+
+![State machine diagram](assets/19.PNG)
+
+---
+
+## Common Mistakes in UML State Machine Diagrams
+
+- Failing to identify states
+- Failing to define transitions
+- Failing to define actions
+- Failing to define guards
+- Not considering entry and exit actions for states
+
+---
+
 
 
 
