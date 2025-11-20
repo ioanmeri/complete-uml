@@ -3,6 +3,7 @@
 - [Introduction](#introduction)
 - [Basics of Sequence Diagram](#basics-of-sequence-diagram)
 - [Benefits of Sequence Diagram](#benefits-of-sequence-diagram)
+- [Sequence Diagram Example](#sequence-diagram-example)
 
 ---
 
@@ -92,6 +93,23 @@ Specify conditions or restrictions on messages
 
 ---
 
+## Sequence Diagram Example
+
+![State machine diagram](assets/20.PNG)
+
+---
+
+## Common Mistakes in UML Sequence Diagrams
+
+- Failing to identify the participating objects or lifelines
+- Failing to define the message types
+- Not properly labeling messages
+- Not considering the lifespan of objects
+- Not properly ordering messages
+- Not considering alternative scenarios
+- Not considering conditional logic
+
+---
 
 
 
