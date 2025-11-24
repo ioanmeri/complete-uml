@@ -4,7 +4,7 @@
 - [Basics of Communication Diagram](#basics-of-communication-diagram)
 - [Benefits of Communication Diagram](#benefits-of-communication-diagram)
 - [Communication Diagram Example](#communication-diagram-example)
-- 
+- [Common Mistakes in UML Communication Diagrams](#common-mistakes-in-uml-communication-diagrams)
 
 ---
 
