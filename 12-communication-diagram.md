@@ -3,6 +3,8 @@
 - [Introduction](#introduction)
 - [Basics of Communication Diagram](#basics-of-communication-diagram)
 - [Benefits of Communication Diagram](#benefits-of-communication-diagram)
+- [Communication Diagram Example](#communication-diagram-example)
+- 
 
 ---
 
@@ -52,6 +54,28 @@ Name is on the upper left corner
 - Design
 
 ---
+
+## Communication Diagram Example
+
+![Communication Diagram Example](assets/21.PNG)
+
+---
+
+## Common Mistakes in UML Communication Diagrams
+
+- Failing to show object lifetimes
+- Not considering the direction of messages
+- Overlapping messages
+- Not labeling messages
+- Not showing message replies
+- Not considering alternative scenarios
+
+---
+
+
+
+
+
 
 
 
