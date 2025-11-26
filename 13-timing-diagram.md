@@ -3,6 +3,8 @@
 - [Introduction](#introduction)
 - [Basics of Timing Diagram](#basics-of-timing-diagram)
 - [Benefits of Timing Diagram](#benefits-of-timing-diagram)
+- [Timing Diagram Example](#timing-diagram-example)
+- [Common Mistakes in Timing Diagrams](#common-mistakes-in-timing-diagrams)
 
 ---
 
@@ -50,6 +52,24 @@ Time Constraint: Constraint of an interval
 - Validation
 
 ---
+
+## Timing Diagram Example
+
+![Timing Diagram Example](assets/22.PNG)
+
+---
+
+## Common Mistakes in Timing Diagrams
+
+- Failing to identify the participating objects
+- Failing to show the event occurrences
+- Not showing time duration
+- Not considering timing constraints
+- Not considering timing constraints
+- Overcomplicating the diagram
+
+---
+
 
 
 
