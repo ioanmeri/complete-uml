@@ -2,6 +2,7 @@
 
 - [Introduction](#introduction)
 - [Basics of Interaction Overview Diagram](#basics-of-interaction-overview-diagram)
+- [Benefits of Interaction Overview Diagram](#benefits-of-interaction-overview-diagram)
 
 ---
 
@@ -48,7 +49,15 @@ Represent the reuse of an existing interaction within an Interaction Overview Di
 
 ---
 
+## Benefits of Interaction Overview Diagram
 
+- Simplification of complex interactions
+- Visualization of control flow
+- Identification of alternative scenarios
+- Reusability
+- Enhanced collaboration
+
+---
 
 
 
