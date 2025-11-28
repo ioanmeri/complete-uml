@@ -3,6 +3,7 @@
 - [Introduction](#introduction)
 - [Basics of Interaction Overview Diagram](#basics-of-interaction-overview-diagram)
 - [Benefits of Interaction Overview Diagram](#benefits-of-interaction-overview-diagram)
+- [Interaction Overview Diagram Example](#interaction-overview-diagram-example)
 
 ---
 
@@ -58,6 +59,26 @@ Represent the reuse of an existing interaction within an Interaction Overview Di
 - Enhanced collaboration
 
 ---
+
+## Interaction Overview Diagram Example
+
+![Interaction Overview Diagram Example](assets/23.PNG)
+
+---
+
+## Common Mistakes in UML Interaction Overview Diagram
+
+- Overcomplicating the diagram
+- Not clearly distingishing between actions and interactions
+- Not including all necessary interactions
+- Using too many control flows
+- Not considering alternate scenarios
+
+---
+
+
+
+
 
 
 
