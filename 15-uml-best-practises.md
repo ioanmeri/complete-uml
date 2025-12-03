@@ -29,7 +29,7 @@
 - Use UML diagrams for testing
 - Use UML diagrams to document the system
 - Validate UML diagrams
-- Use UML diagrams to support reuse
+- Use UML diagrams to support re-use
 - Keep UML diagrams organised
 
 ---
