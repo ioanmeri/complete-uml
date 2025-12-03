@@ -30,6 +30,6 @@
 - Use UML diagrams to document the system
 - Validate UML diagrams
 - Use UML diagrams to support reuse
-- Keep UML diagrams organized
+- Keep UML diagrams organised
 
 ---
