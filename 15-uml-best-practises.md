@@ -1,5 +1,6 @@
 # Section 15: UML Best Practises
 
+---
 
 ## Best Practices for designing and managing UML Diagrams
 
