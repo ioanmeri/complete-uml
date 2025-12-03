@@ -24,7 +24,7 @@
     - Interaction Overview Diagram
 - Keep UML diagrams simple
 - Use UML as a communication tool
-- Keep UML diagrams up-to-date
+- Keep UML diagrams up to date
 - Use UML diagrams to guide development
 - Use UML diagrams for testing
 - Use UML diagrams to document the system
